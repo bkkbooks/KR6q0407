@@ -19,7 +19,7 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0407_000-J.yaml, hash: 'sha256:9aaabee875a619987915236d61020636bd093707e84e43b79822cd6d33c330f8'}
+  - {seq: 0, filename: KR6q0407_000-J.yaml, hash: 'sha256:94b9396040eb12b91835fb008f1eae827ca8a1a132cce9e8d710587c08239b8c'}
   - {seq: 1, filename: KR6q0407_001-J.yaml, hash: 'sha256:9a91f4f928863c03a98428b645c55d070356438c3d9c0ef1cedb51595741c39a'}
   - {seq: 2, filename: KR6q0407_002-J.yaml, hash: 'sha256:e2dc47f9d4e6d4db8ce09fb3a322c8c098ccec297beacd4256bc00a8795385e5'}
   - {seq: 3, filename: KR6q0407_003-J.yaml, hash: 'sha256:21c47fc0060f58ee3ada32f1e23d18e4445234cc7aaa10fac7e2c81139d18bd7'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 9, filename: KR6q0407_009-J.yaml, hash: 'sha256:7605ff2d8d9e3655ada58f685b5b27bcc799204d2e7d5325da962fac198c991f'}
   - {seq: 10, filename: KR6q0407_010-J.yaml, hash: 'sha256:8c9dac32c75c51cb4095b4a3ae04a4e00bba1f2e1bd1fbdaaebb68e2026c4cfd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0407_000-J.markers.yaml, hash: 'sha256:b4192666cbacd47dc8ada4a5e22dc3a52752ba656c0a1fa5eb2cb8ebb6d7de70'}
+  - {seq: 0, role: markers, filename: assets/KR6q0407_000-J.markers.yaml, hash: 'sha256:0fb39ddae863d2f03859d3fae1be1d3c768e96544c89663cb047320e82805e49'}
   - {seq: 1, role: markers, filename: assets/KR6q0407_001-J.markers.yaml, hash: 'sha256:e0e38f3b7cc1f227fa4fa3e7a03299f0938b6391c74ebb9f6e34f0317e8ef5e0'}
   - {seq: 2, role: markers, filename: assets/KR6q0407_002-J.markers.yaml, hash: 'sha256:02cb49f9b55c0a0782d18ec920ef44e17b4c07d19abcaea5c6d75a569cc0e40f'}
   - {seq: 3, role: markers, filename: assets/KR6q0407_003-J.markers.yaml, hash: 'sha256:b8805861716cebfedb0db756d4ad47cf98623f4f67e3990b11079d2a55a08421'}
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0407_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0407_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 史大成敘
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0407_J_000-mulu-3
     span:
-    - front
+    - body
     - 657
     - 657
   label: 譚貞默序
@@ -77,7 +77,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0407_J_000-mulu-4
     span:
-    - front
+    - body
     - 1082
     - 1082
   label: 錢謙益序
@@ -87,7 +87,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0407_J_000-mulu-5
     span:
-    - front
+    - body
     - 1506
     - 1506
   label: 跋
@@ -97,7 +97,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0407_J_000-mulu-6
     span:
-    - front
+    - body
     - 1513
     - 1513
   label: 目次
@@ -2563,4 +2563,4 @@ table_of_contents:
   label: 題眼鏡
   type: mulu
   level: 1
-hash: sha256:deb889c16a7d8191b5795517186490749abc181e0162f7b762cd4d03a5553363
+hash: sha256:884e1de0ecdf19e295e7bf5c38614db6fe3d52bfe17565c7d96ff768a696bb21
